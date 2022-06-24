@@ -1,0 +1,7 @@
+{
+    "apps": [{
+        "name": "bitcoinCandleGenerator",
+        "script": "node",
+        "args": "build/index.js"
+    }]
+}

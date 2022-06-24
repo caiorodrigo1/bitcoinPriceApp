@@ -1,0 +1,7 @@
+{
+    "apps": [{ 
+        "name": "bitcoinCandleAPI",
+        "script": "node",
+        "args": "build/server.js"
+    }]
+}
